@@ -172,9 +172,14 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![1](https://github.com/user-attachments/assets/905a2a4f-27fb-4662-8ab8-9f14dd4b5f43)
+<img height=15% width=48% src="https://github.com/user-attachments/assets/905a2a4f-27fb-4662-8ab8-9f14dd4b5f43"><img height=15% width=48% src="(https://github.com/user-attachments/assets/4cf98f57-845c-4c25-a762-bb536f5526c8">
 
-![2](https://github.com/user-attachments/assets/4cf98f57-845c-4c25-a762-bb536f5526c8)
+
+<table>
+<tr>
+<td width=48%>
+
+
 
 ![3](https://github.com/user-attachments/assets/9061a440-3f98-4d39-84f7-2fa29b279c2e)
 
@@ -191,6 +196,7 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/2d6e652f-e259-4d0e-b139-926400f7fee8)
 
 ![6](https://github.com/user-attachments/assets/f63902a7-6a0e-4f19-8c63-6e8118d3d03b)
 
